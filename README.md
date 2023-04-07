@@ -1,4 +1,4 @@
-# grupo_9_newwarestech
+![image](https://user-images.githubusercontent.com/129348803/230691169-f7b4f8be-1490-4418-a541-d7d6baeed998.png)# grupo_9_newwarestech
 Proyecto Grupal - Grupo 9
 Este proyecto consiste en el desarrollo de una página web de venta de artículos electrónicos, en la que los usuarios puedan explorar una amplia variedad de productos electrónicos, incluyendo dispositivos móviles, computadoras, tablets, televisores, consolas de videojuegos, entre otros. La página web incluirá características como carrito de compras, historial de compras, búsquedas avanzadas, opciones de pago seguras y una sección de soporte al cliente.
 El objetivo principal de este proyecto es desarrollar una plataforma en línea para la venta de artículos electrónicos que brinde una experiencia de usuario fluida e intuitiva. También se busca ofrecer un amplio catálogo de productos de calidad, con información detallada y especificaciones técnicas precisas, que permitan a los usuarios tomar decisiones informadas de compra.
